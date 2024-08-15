@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # pragament_assgn
 
 A new Flutter project.
