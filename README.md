@@ -1,21 +1,19 @@
 
 # pragament_assgn
 
-A new Flutter project.
+##Flutter Chart Application
 
-## Getting Started
+#Overview
+ This Flutter application consists of two screens: a Home Screen and a Chart Screen. The app demonstrates navigation and state management using go_router and Riverpod. The Chart Screen displays a chart visualized using data from data.gov.in, showcasing creativity in frontend design and backend functionality.
 
-This project is a starting point for a Flutter application.
+#Features
+  - Home Screen: The initial screen with navigation options.
+  - Chart Screen: Displays a chart fetched from the data.gov.in API.
+  - Navigation: Seamless transition between Home Screen and Chart Screen using go_router.
+  - State Management: Efficient state management using Riverpod.
+  - Chart Customization: Visualization of data with customizable chart options.
+  - Design: User-friendly UI/UX with modern design principles.
+  - Automated Integration Tests: Ensures the functionality and reliability of the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Pragament-Tech-Solution-assignment-1
-Pragament Tech Solution assignment 1
->>>>>>> origin/main
+##Demo
+Watch a demo of the Flutter Chart Application on YouTube: [https://youtu.be/a9VpR5nzwpo]
